@@ -1,4 +1,4 @@
-Дудосік
+## Дудосим російські сайти
 
 1) Встановити докер по силці https://www.docker.com/get-started 
 2) Встановити ядро лінукса WLS в четвертому пункті по силці https://docs.microsoft.com/ru-ru/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package 
